@@ -1,4 +1,4 @@
-# 🌿 street-view-greenness-firearm
+# Street View Greenness and Firearm-Related Violence
 
 This repository contains the full analytic workflow for our study:  
 **_“Street-View Measures of Urban Greenness, Area-Level Deprivation, and the Risk of Firearm-Related Homicide: A Matched Case-Control Study”_**
